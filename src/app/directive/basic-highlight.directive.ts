@@ -9,7 +9,7 @@ export class BasicHighlightDirective implements OnInit{
 
   // tslint:disable-next-line:typedef
   ngOnInit(){
-    this.renderer.setStyle(this.elementRef.nativeElement, 'font-color', 'blue');
+    this.renderer.setStyle(this.elementRef.nativeElement, 'color', 'blue');
   }
 
 }
