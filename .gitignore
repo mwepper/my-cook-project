@@ -153,6 +153,13 @@ Desktop.ini
 *.cfg.xml
 
 ######################
+# Package / Angular
+######################
+angular.json
+
+
+
+######################
 # Java
 ######################
 InitUtils.java/tmp
